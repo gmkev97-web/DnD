@@ -1,1 +1,1 @@
-Constitution - C
+Constitution - CON
