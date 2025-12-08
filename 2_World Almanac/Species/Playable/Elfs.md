@@ -15,7 +15,7 @@ Elves have pointed ears and lack facial and body hair. They don't need to sleep 
 | Lifespan   | 800 years                                                                                  |
 | legal age  | 200 years                                                                                  |
 | Level 1    | [[Cantrip]] [[Prestidigitation]] - can be replaced with [[wizard]] cantrip after long rest |
-They consider themselves as purest form of elven heritage. They are known for their
+They consider themselves as purest form of elven heritage. They are known for their fine crafts, high artisanship and their sometimes o
 
 
 **Forest Elf**
