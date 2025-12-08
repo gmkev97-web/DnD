@@ -1,11 +1,11 @@
 
-| Name          | Elfs |
-| ------------- | ---- |
-| Creature Type | Fey/ |
-| Size          |      |
-| Speed         |      |
-| Darkvision    |      |
-| Resistances   |      |
-|               |      |
-| Lifespan      |      |
-| legal age     |      |
+| Name          | Elfs       |
+| ------------- | ---------- |
+| Creature Type | Humanoid   |
+| Size          | Medium     |
+| Speed         | 9m - 30 ft |
+| Darkvision    |            |
+| Resistances   |            |
+|               |            |
+| Lifespan      |            |
+| legal age     |            |
