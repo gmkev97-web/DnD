@@ -10,7 +10,7 @@
 | legal age                      | culture - fully mature at 20-25 years                                                                        |
 | Healing Hands                  | Once per long rest: touch a creature and roll a number of d4s equivalent to proficiency bonus for healing HP |
 | Light Bearer                   | They know the light cantrip, casting it with charisma                                                        |
-| Level 3 - Celestial Revelation | Once                                                                                                         |
+| Level 3 - Celestial Revelation | After Level 3 they can transform via bonus action for 1 minute once per long rest. On each turn th           |
 | Heavenly Wings                 |                                                                                                              |
 | Inner Radiance                 |                                                                                                              |
 | Necrotic Shroud                |                                                                                                              |
