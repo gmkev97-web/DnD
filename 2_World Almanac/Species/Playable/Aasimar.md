@@ -9,4 +9,4 @@
 |                      |                    |
 | Lifespan             | 160 years          |
 | legal age            | culture            |
-Aasimar are not a species like the other ones in [[placeholder]] - anyone can 
+Aasimar are not a species like the other ones in [[placeholder]] - anyone can be parent to one. They are blessed by a deity, so they only make out a small part of the population. They carry a spark of the upper planes in their soul. 
