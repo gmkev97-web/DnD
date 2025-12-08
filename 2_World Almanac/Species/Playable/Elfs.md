@@ -1,10 +1,10 @@
-| Name          | Elf                               |
-| ------------- | --------------------------------- |
-| Creature Type | Humanoid                          |
-| Size          | Medium                            |
-| Trance        | Immune to sleep, long rest in 4h  |
-| Elven Lineage | Gain a spell at Level 1, 3 & 5 -  |
-| Fey Ancestry  |                                   |
+| Name          | Elf                                                                                                                                                                   |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Creature Type | Hu                                                                                                                                                                    |
+| Size                                                                                                                                                                                  |
+| Trance        | Immune to sleep, lon                                                                                                                                                  |
+|  Gain a spell at Level 1, 3 & 5 - Spell is always prepared and can be cast once a long rest without a spell slot. Choose between [[Intelligence]], [[Wisdom]] and C hout  hout  hout  |
+                                                                                                                                                                                        |
 Elves have pointed ears and lack facial and body hair. They don't need to sleep but enter a trance when they rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations. Over the millennia, different tribes adapted to their respective environments, which explains the differences in the following lineages:
 
 
