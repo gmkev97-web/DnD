@@ -8,3 +8,4 @@
 | Lifespan        | 425 years                                                                                |
 | legal age       | 50 years                                                                                 |
 | Gnomish Cunning | Advantage on [[Intelligence\|INT]], [[Wisdom\|WIS]], and [[Charisma\|CHA]] Saving Throws |
+| Gnomish Lineage |                                                                                          |
