@@ -7,5 +7,6 @@
 | Darkvision           | 18m - 60ft         |
 | Celestial Resistance | necrotic & radiant |
 |                      |                    |
-| Lifespan             |                    |
-| legal age            |                    |
+| Lifespan             | 160 years          |
+| legal age            | culture            |
+Aasimar are not a species like the other ones in [[placeholder]] - anyone can 
