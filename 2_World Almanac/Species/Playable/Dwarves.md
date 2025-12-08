@@ -6,5 +6,5 @@
 | Speed         | 9m - 30ft   |
 | Darkvision    | 36m - 180ft |
 | Resistance    | poison      |
-| Lifespan      |             |
+| Lifespan      | 350 years   |
 | legal age     |             |
