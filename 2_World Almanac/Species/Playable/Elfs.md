@@ -1,7 +1,7 @@
 
 | Name          | Elfs |
 | ------------- | ---- |
-| Creature Type |      |
+| Creature Type | Fey/ |
 | Size          |      |
 | Speed         |      |
 | Darkvision    |      |
