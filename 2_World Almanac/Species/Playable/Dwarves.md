@@ -7,4 +7,5 @@
 | Darkvision    | 36m - 180ft |
 | Resistance    | poison      |
 | Lifespan      | 350 years   |
-| legal age     |             |
+| legal age     | 60 years    |
+|               |             |
