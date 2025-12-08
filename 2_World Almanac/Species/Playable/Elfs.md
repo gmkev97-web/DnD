@@ -15,7 +15,7 @@ Elves have pointed ears and lack facial and body hair. They don't need to sleep 
 | Lifespan   | 800 years                                                                                  |
 | legal age  | 200 years                                                                                  |
 | Level 1    | [[Cantrip]] [[Prestidigitation]] - can be replaced with [[wizard]] cantrip after long rest |
-They consider themselves as purest form of elven heritage. They are known for their fine crafts, high artisanship and their sometimes more observing behaviour.
+They consider themselves as purest form of elven heritage. They are known for their fine crafts, high artisanship and their sometimes more observing behaviour. Also they are known for their rituals, even if sometimes 
 
 
 **Forest Elf**
@@ -37,4 +37,4 @@ Often considered the most in touch with nature, Forest Elves are known to wander
 | Darkvision | 36m - 180ft |
 | Lifespan   | 750 years   |
 | legal age  | 100 years   |
-Known as the "evil" elven folk, the darkish skinned drow are known for the night. They adapted to it and it's more evil nature, as the whole culture can feel a bit rough sometimes. But Drow may also be the most individu
+Known as the "evil" elven folk, the darkish skinned drow are known for the night. They adapted to it and it's more evil nature, as the whole culture can feel a bit rough sometimes. But Drow may also be the most individualistic elves, where the destiny of the individual is the priority, so don't judge a book by it's color.
