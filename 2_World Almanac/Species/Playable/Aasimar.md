@@ -1,11 +1,11 @@
 
-| Name          | Aasimar |
-| ------------- | ------- |
-| Creature Type |         |
-| Size          |         |
-| Speed         |         |
-| Darkvision    |         |
-| Resistances   |         |
-|               |         |
-| Lifespan      |         |
-| legal age     |         |
+| Name          | Aasimar  |
+| ------------- | -------- |
+| Creature Type | Humanoid |
+| Size          |          |
+| Speed         |          |
+| Darkvision    |          |
+| Resistances   |          |
+|               |          |
+| Lifespan      |          |
+| legal age     |          |
