@@ -3,6 +3,7 @@
 | Creature Type | Humanoid                         |
 | Size          | Medium                           |
 | Trance        | Immune to sleep, long rest in 4h |
+| Fey Ancestry  |                                  |
 Elves have pointed ears and lack facial and body hair. They don't need to sleep but enter a trance when they rest. In that state, they remain aware of their surroundings while immersing themselves in memories and meditations. Over the millennia, different tribes adapted to their respective environments, which explains the differences in the following subspecies:
 
 
@@ -15,7 +16,8 @@ Elves have pointed ears and lack facial and body hair. They don't need to sleep 
 | Lifespan   | 800 years                                                                                  |
 | legal age  | 200 years                                                                                  |
 | Level 1    | [[Cantrip]] [[Prestidigitation]] - can be replaced with [[wizard]] cantrip after long rest |
-They consider themselves as purest form of elven heritage. They are known for their fine crafts, high artisanship and their sometimes more observing behaviour. Also they are known for their rituals, even if they sometimes feel overly fanc
+| Level 3    |                                                                                            |
+They consider themselves as purest form of elven heritage. They are known for their fine crafts, high artisanship and their sometimes more observing behaviour. Also they are known for their rituals, even if they sometimes feel overly fancy...
 
 
 **Forest Elf**
@@ -26,7 +28,7 @@ They consider themselves as purest form of elven heritage. They are known for th
 | Darkvision | 18m - 60ft |
 | Lifespan   | 750 years  |
 | legal age  | 150 years  |
-Often considered the most in touch with nature, Forest Elves are known to wander and record the world around them. Some of them settle in cities, that prioritize nature first. Sometimes they can be blind to new technology.
+Often considered the most in touch with nature, Forest Elves are known to wander and record the world around them. Some of them settle in cities, that prioritize nature first. Sometimes they can be blind to new technology. 
 
 
 **Drow
