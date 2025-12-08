@@ -1,14 +1,14 @@
 
-| Name              | Dragonborn                                                                          |
-| ----------------- | ----------------------------------------------------------------------------------- |
-| Creature Type     | Humanoid                                                                            |
-| Size              | Medium                                                                              |
-| Speed             | 9m - 30ft                                                                           |
-| Darkvision        | 18m - 60ft                                                                          |
-| Drakonic Ancestry | see below, also resistant against breathweapon damage                               |
-| Lifespan          | 80 years                                                                            |
-| legal age         | 15 years (fully matured at 19 years)                                                |
-| Breath Weapon     | Can replace on of the attacks with a magical energy attack, either 15 ft cone (5m)  |
+| Name              | Dragonborn                                                                                                                                                                                          |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creature Type     | Humanoid                                                                                                                                                                                            |
+| Size              | Medium                                                                                                                                                                                              |
+| Speed             | 9m - 30ft                                                                                                                                                                                           |
+| Darkvision        | 18m - 60ft                                                                                                                                                                                          |
+| Drakonic Ancestry | see below, also resistant against breathweapon damage                                                                                                                                               |
+| Lifespan          | 80 years                                                                                                                                                                                            |
+| legal age         | 15 years (fully matured at 19 years)                                                                                                                                                                |
+| Breath Weapon     | Can replace on of the attacks with a magical energy attack, either 15 ft cone (5m) or a 30ft line (9m). Each hit creature must make a Dex saving throw (DC8 + Con mod + [[proficiency bonus\|pb]])  |
 
 
 | Draconic Ancestry | Damage Type |
