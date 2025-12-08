@@ -9,4 +9,4 @@
 | Lifespan           | 350 years                                                         |
 | legal age          | 60 years                                                          |
 | Dwarven Resilience | Advantage on saving throws to avoid or end the poisoned condition |
-| Dwarven Toughness  | [[Hit Poi]]                                                       |
+| Dwarven Toughness  | [[HP]] maximum +1 for each level                                  |
