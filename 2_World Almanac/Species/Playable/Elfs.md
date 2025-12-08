@@ -25,15 +25,15 @@ They consider themselves as purest form of elven heritage. They are known for th
 
 **Forest Elf**
 
-| Name       | Forest Elf |
-| ---------- | ---------- |
-| Speed      | 10m - 35ft |
-| Darkvision | 18m - 60ft |
-| Lifespan   | 750 years  |
-| legal age  | 150 years  |
-| Level 1    |            |
-| Level      |            |
-|            |            |
+| Name       | Forest Elf         |
+| ---------- | ------------------ |
+| Speed      | 10m - 35ft         |
+| Darkvision | 18m - 60ft         |
+| Lifespan   | 750 years          |
+| legal age  | 150 years          |
+| Level 1    | Druidcraft         |
+| Level 3    | Longstrider        |
+| Level 5    | Pass without Trace |
 Often considered the most in touch with nature, Forest Elves are known to wander and record the world around them. Some of them settle in cities, that prioritize nature first. Sometimes they can be blind to new technology. 
 
 
@@ -45,4 +45,7 @@ Often considered the most in touch with nature, Forest Elves are known to wander
 | Darkvision | 36m - 180ft |
 | Lifespan   | 750 years   |
 | legal age  | 100 years   |
+|            |             |
+|            |             |
+|            |             |
 Known as the "evil" elven folk, the darkish skinned drow are known for the night. They adapted to it and it's more evil nature, as the whole culture can feel a bit rough sometimes. But Drow may also be the most individualistic elves, where the destiny of the individual is the priority, so don't judge a book by it's color.
