@@ -7,13 +7,15 @@ Elves have pointed ears and lack facial and body hair. They don't need to sleep 
 
 **High Elf**
 
-| Name        | High Elf |
-| ----------- | -------- |
-| Speed       |          |
-| Darkvision  |          |
-| Resistances |          |
-| Lifespan    |          |
-| legal age   |          |
+| Name        | High Elf  |
+| ----------- | --------- |
+| Speed       | 9m - 30ft |
+| Darkvision  |           |
+| Resistances |           |
+| Lifespan    |           |
+| legal age   |           |
+
+
 
 **Forest Elf**
 
