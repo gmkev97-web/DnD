@@ -31,9 +31,10 @@ Often considered the most in touch with nature, Forest Elves are known to wander
 
 **Drow
 
-| Name       | Drow      |
-| ---------- | --------- |
-| Speed      | 9m - 30ft |
-| Darkvision | 36m -     |
-| Lifespan   |           |
-| legal age  |           |
+| Name       | Drow        |
+| ---------- | ----------- |
+| Speed      | 9m - 30ft   |
+| Darkvision | 36m - 180ft |
+| Lifespan   | 750 years   |
+| legal age  | 100 years   |
+Known as the "evil" elven folk, the darkish skinned drow 
