@@ -26,7 +26,7 @@ They consider themselves as purest form of elven heritage. They are known for th
 | Darkvision | 18m - 60m  |
 | Lifespan   | 750 years  |
 | legal age  | 150 years  |
-Often considered the most in touch with nature, Forest Elves 
+Often considered the most in touch with nature, Forest Elves are known to wander and record  and settle only cities, that prioritize nature first. Sometimes they can be blind to new technology
 
 
 **Drow
