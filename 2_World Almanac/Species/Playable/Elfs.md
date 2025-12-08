@@ -37,4 +37,4 @@ Often considered the most in touch with nature, Forest Elves are known to wander
 | Darkvision | 36m - 180ft |
 | Lifespan   | 750 years   |
 | legal age  | 100 years   |
-Known as the "evil" elven folk, the darkish skinned drow 
+Known as the "evil" elven folk, the darkish skinned drow are known for the night. They adapted to it and it's more evil nature, as the whole culture can feel a bit rough sometimes. But Drow may also be the most individu
