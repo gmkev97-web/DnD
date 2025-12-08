@@ -3,9 +3,7 @@
 | ------------- | --------------- |
 | Creature Type | Humanoid        |
 | Size          | Medium or small |
-| Speed         |                 |
-| Darkvision    |                 |
-| Resistances   |                 |
-|               |                 |
-| Lifespan      |                 |
-| legal age     |                 |
+| Speed         | 9m - 30ft       |
+| Darkvision    | none            |
+| Lifespan      | 80 years        |
+| legal age     | 18-21 years     |
