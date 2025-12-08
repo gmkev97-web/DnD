@@ -1,14 +1,10 @@
 
-| Name          | Elfs       |
-| ------------- | ---------- |
-| Creature Type | Humanoid   |
-| Size          | Medium     |
-| Speed         | 9m - 30 ft |
-| Darkvision    |            |
-| Resistances   |            |
-|               |            |
-| Lifespan      |            |
-| legal age     |            |
+| Name          | Elf       |
+| ------------- | --------- |
+| Creature Type | Humanoid  |
+| Size          | Medium    |
+| Lifespan      | 750 years |
+| legal age     |           |
 
 
 High Elf
@@ -39,13 +35,13 @@ Forest Elf
 
 Drow
 
-| Name          |     |
-| ------------- | --- |
-| Creature Type |     |
-| Size          |     |
-| Speed         |     |
-| Darkvision    |     |
-| Resistances   |     |
-|               |     |
-| Lifespan      |     |
-| legal age     |     |
+| Name          | Drow |
+| ------------- | ---- |
+| Creature Type |      |
+| Size          |      |
+| Speed         |      |
+| Darkvision    |      |
+| Resistances   |      |
+|               |      |
+| Lifespan      |      |
+| legal age     |      |
