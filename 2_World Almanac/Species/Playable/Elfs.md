@@ -23,17 +23,17 @@ They consider themselves as purest form of elven heritage. They are known for th
 | Name       | Forest Elf |
 | ---------- | ---------- |
 | Speed      | 10m - 35ft |
-| Darkvision | 18m - 60m  |
+| Darkvision | 18m - 60ft |
 | Lifespan   | 750 years  |
 | legal age  | 150 years  |
-Often considered the most in touch with nature, Forest Elves are known to wander and record  and settle only cities, that prioritize nature first. Sometimes they can be blind to new technology
+Often considered the most in touch with nature, Forest Elves are known to wander and record the world around them. Some of them settle in cities, that prioritize nature first. Sometimes they can be blind to new technology.
 
 
 **Drow
 
-| Name        | Drow |
-| ----------- | ---- |
-| Speed       |      |
-| Darkvision  |      |
-| Lifespan    |      |
-| legal age   |      |
+| Name       | Drow      |
+| ---------- | --------- |
+| Speed      | 9m - 30ft |
+| Darkvision | 36m -     |
+| Lifespan   |           |
+| legal age  |           |
