@@ -11,4 +11,4 @@
 | Dwarven Resilience | Advantage on saving throws to avoid or end the poisoned condition                                                         |
 | Dwarven Toughness  | [[HP]] maximum +1 for each level                                                                                          |
 | Stonecunning       | [[Bonus Action\|BA]] gain Tremorsense with a range of 18m (60ft) for 10 minutes. Must be touching stone (ignore footwear) |
-The Iron folk, the drunken folk or even called the 
+The Iron folk, the drunken folk or even called the cavesfolk. As hairless as elves are, dwarves are known for long beards and sometimes coaty 
