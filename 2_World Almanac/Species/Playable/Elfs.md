@@ -12,20 +12,20 @@ Elves have pointed ears and lack facial and body hair. They don't need to sleep 
 | ---------- | ---------- |
 | Speed      | 9m - 30ft  |
 | Darkvision | 18m - 60ft |
-| Lifespan   | 800 yearsa |
-| legal age  |            |
+| Lifespan   | 800 years  |
+| legal age  | 200 years  |
 
 
 
 **Forest Elf**
 
-| Name        | Forest Elf |
-| ----------- | ---------- |
-| Speed       |            |
-| Darkvision  |            |
-|             |            |
-| Lifespan    |            |
-| legal age   |            |
+| Name       | Forest Elf |
+| ---------- | ---------- |
+| Speed      | 10m - 35ft |
+| Darkvision | 18m - 60m  |
+|            |            |
+| Lifespan   |            |
+| legal age  |            |
 
 **Drow
 
