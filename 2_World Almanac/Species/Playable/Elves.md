@@ -49,3 +49,8 @@ Often considered the most in touch with nature, Forest Elves are known to wander
 | Level 3    | Faerie Fire    |
 | Level 5    | Darkness       |
 Known as the "evil" elven folk, the darkish skinned drow are known for the night. They adapted to it and it's more evil nature, as the whole culture can feel a bit rough sometimes. But Drow may also be the most individualistic elves, where the destiny of the individual is the priority, so don't judge a book by it's color.
+
+
+Non Playable:
+Sea Elf
+Astral Elf
