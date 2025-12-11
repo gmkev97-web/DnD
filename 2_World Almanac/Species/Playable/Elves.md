@@ -54,3 +54,5 @@ Known as the "evil" elven folk, the darkish skinned drow are known for the night
 Non Playable:
 Sea Elf
 Astral Elf
+Eladrin
+Shadar-Kai
